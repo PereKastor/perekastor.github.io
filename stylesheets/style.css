@@ -1,0 +1,11 @@
+/**
+* Style du site cbrunel.com
+**/
+
+.img-cbrunel {
+  position: absolute;
+  top: 20px;
+  left: -130px;
+  max-height: 100px;
+  border-radius: 60px;
+}

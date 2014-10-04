@@ -2,6 +2,14 @@
 * Style du site cbrunel.com
 **/
 
+.under-construction {
+  position: absolute;
+  max-width: 150px;
+  right: 10px;
+  top: 0;
+  border-radius: 100px;
+}
+
 .img-cbrunel {
   position: absolute;
   top: 20px;
@@ -19,6 +27,7 @@
 }
 
 #forkme_banner {
+  margin-right: 50px;
   -webkit-transition: -webkit-transform 0.3s;
   transition: transform 0.3s;  
 }
@@ -27,4 +36,18 @@
   -ms-transform: scale(1.1);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+}
+
+.menu__nav {
+  list-style: none;
+  color: darkgrey;
+}
+
+.menu__nav--link {
+  display: inline-block;
+  cursor: pointer;
+  color: white;
+}
+.menu__nav--link a {
+  color: white;
 }

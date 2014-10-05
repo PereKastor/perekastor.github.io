@@ -24,7 +24,7 @@ function Voitures(ligne,x,v){
 	}else if(ligne == 5){
 		posY = 50;
 		image = new Image();
-		image.src = pathImg + "Voiture4.png";
+		image.src = pathImg + "voiture4.png";
 		larg = 23;
 	}
 	

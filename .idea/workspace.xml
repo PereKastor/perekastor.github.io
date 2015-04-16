@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea157422-f8ca-427f-add8-96bb2a2b7e5f" name="Default" comment="new home">
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\CNAME" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Bas.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\BlueFrog1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\BlueFrog2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\BlueFrog3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\BlueFrog4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Camion.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Croco1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Croco2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Haut.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Middle.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Piafoupas.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Serpent1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Serpent2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Serpent3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Serpent4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Tronc1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Tronc2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Tronc3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Voiture1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Voiture2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Voiture3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Voiture4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Voiture5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\asphalte.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\eau.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\SupInfoLogo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\bg_hr.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\blacktocat.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\cbrunel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\icon_download.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\keyboard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\sprite_download.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\under_construction.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\javascripts\Frogger\Frog.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\javascripts\Frogger\Tronc.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\javascripts\Frogger\Voitures.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\javascripts\Frogger\game.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\javascripts\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\pages\frogger.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\params.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\stylesheets\pygment_trac.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\stylesheets\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\stylesheets\stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\application.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\browser-window-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\browser-window-2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\browser-window-3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\flower.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\noise.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\stripped-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\controller.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\initialize.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\router.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\styles\application.styl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\about\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\about\template.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\contact\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\contact\template.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\home\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\home\template.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\projects\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\projects\template.hbs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\brunch-config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\copy-fonts.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\makefile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\vendor\require.define.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\vendor\scripts\console-helper.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="PereKastor.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PereKastor.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13972603" vertical-offset="0" max-vertical-offset="365">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Push.Settings">
+    <option name="myUpdateMethod" value="REBASE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/render/vinoga.html.eco" />
+        <option value="$PROJECT_DIR$/src/layouts/default.html.eco" />
+        <option value="$PROJECT_DIR$/docpad.coffee" />
+        <option value="$PROJECT_DIR$/app/config/config.json" />
+        <option value="$PROJECT_DIR$/public/config/header.json" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/brunch-config.js" />
+        <option value="$PROJECT_DIR$/app/initialize.js" />
+        <option value="$PROJECT_DIR$/app/views/home/index.js" />
+        <option value="$PROJECT_DIR$/app/views/projects/index.js" />
+        <option value="$PROJECT_DIR$/app/views/contact/index.js" />
+        <option value="$PROJECT_DIR$/app/application.js" />
+        <option value="$PROJECT_DIR$/app/views/projects/template.hbs" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/views/contact/template.hbs" />
+        <option value="$PROJECT_DIR$/app/views/home/template.hbs" />
+        <option value="$PROJECT_DIR$/app/styles/application.styl" />
+        <option value="$PROJECT_DIR$/app/assets/index.html" />
+        <option value="$PROJECT_DIR$/app/router.js" />
+        <option value="$PROJECT_DIR$/app/controller.js" />
+        <option value="$PROJECT_DIR$/app/views/about/index.js" />
+        <option value="$PROJECT_DIR$/app/views/about/template.hbs" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGruntFileManager">
+    <initial>false</initial>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="false" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PereKastor.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PereKastor.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PereKastor.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="web.server" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\about" />
+      <recent name="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\contact" />
+      <recent name="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\projects" />
+      <recent name="C:\Users\Constant\Desktop\PereKastor.github.io\javascripts\Frogger" />
+      <recent name="C:\Users\Constant\Desktop\PereKastor.github.io\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Constant\Desktop\PereKastor.github.io\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea157422-f8ca-427f-add8-96bb2a2b7e5f" name="Default" comment="" />
+      <created>1412448164116</created>
+      <option name="number" value="Default" />
+      <updated>1412448164116</updated>
+    </task>
+    <task id="LOCAL-00001" summary="edit cname">
+      <created>1412448433200</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1412448433200</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Debut presentation">
+      <created>1412450338337</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1412450338337</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new style">
+      <created>1412451230998</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1412451230998</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mise en place menu">
+      <created>1412466956933</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1412466956933</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Frogger game">
+      <created>1412510957226</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1412510957226</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Frogger game">
+      <created>1412510973328</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1412510973328</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change name">
+      <created>1412511191618</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1412511191618</updated>
+    </task>
+    <task id="LOCAL-00008" summary="use keyboard">
+      <created>1412512547848</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1412512547848</updated>
+    </task>
+    <task id="LOCAL-00009" summary="remove x">
+      <created>1412784961278</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1412784961278</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new website generator">
+      <created>1420630038004</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1420630038004</updated>
+    </task>
+    <task id="LOCAL-00011" summary="change style">
+      <created>1420634493545</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1420634493545</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new home">
+      <created>1420637281784</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1420637281784</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3681672" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19270833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="edit cname" />
+    <MESSAGE value="Debut presentation" />
+    <MESSAGE value="new style" />
+    <MESSAGE value="mise en place menu" />
+    <MESSAGE value="Frogger game" />
+    <MESSAGE value="change name" />
+    <MESSAGE value="use keyboard" />
+    <MESSAGE value="remove x" />
+    <MESSAGE value="new website generator" />
+    <MESSAGE value="change style" />
+    <MESSAGE value="new home" />
+    <option name="LAST_COMMIT_MESSAGE" value="new home" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="PereKastor.github.io" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="PereKastor.github.io" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1207">
+          <caret line="10" column="67" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1207">
+          <caret line="10" column="67" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13972603" vertical-offset="0" max-vertical-offset="365">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

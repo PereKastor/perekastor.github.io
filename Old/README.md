@@ -1,2 +1,0 @@
-perekastor.github.io
-====================

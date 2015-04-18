@@ -43,7 +43,7 @@
     $('body').scrollspy({
       target: '.navbar-custom',
       offset: 70
-    })
+    });
 
 
     /* ---------------------------------------------- /*
@@ -131,6 +131,7 @@
     /* ---------------------------------------------- /*
      * Contact form ajax
      /* ---------------------------------------------- */
+    var m = new mandrill.Mandrill('LBVmx2yzpOrZuYs29HZPUA');
 
     $('#contact-form').submit(function (e) {
 
@@ -143,12 +144,38 @@
 
       if (( c_name == '' || c_email == '' || c_message == '') || (!isValidEmailAddress(c_email) )) {
         response.fadeIn(500);
-        response.html('<i class="fa fa-warning"></i> Please fix the errors and try again.');
+        response.html('<i class="fa fa-warning"></i> Il doit y avoir un petit problème !');
       }
 
       else {
+        var params = {
+          "message": {
+            "text": c_message,
+            "subject": "Message reçu de: " + c_name,
+            "from_email": c_email,
+            "from_name": c_name,
+            "to": [
+              {
+                "email": "constant.95@gmail.com",
+                "name": "Constant Brunel",
+                "type": "to"
+              }
+            ],
+            "headers": {
+              "Reply-To": c_email
+            },
+            "important": true
+          }
+        };
+
         $('#contact-form .ajax-hidden').fadeOut(500);
-        response.html("Message Sent. I will contact you asap. Thanks.").fadeIn(500);
+
+        m.messages.send(params, function (res) {
+          response.html("Message reçu ! Je vous réponds le plus rapidement possible.").fadeIn(500);
+          console.log("ok", res);
+        }, function (err) {
+          console.log("bad", err);
+        });
       }
 
       return false;

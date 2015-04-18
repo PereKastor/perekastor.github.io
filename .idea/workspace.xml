@@ -2,99 +2,100 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea157422-f8ca-427f-add8-96bb2a2b7e5f" name="Default" comment="new home">
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\CNAME" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Bas.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\BlueFrog1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\BlueFrog2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\BlueFrog3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\BlueFrog4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Camion.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Croco1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Croco2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Frog8.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Haut.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Middle.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Piafoupas.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Serpent1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Serpent2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Serpent3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Serpent4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Tronc1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Tronc2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Tronc3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Voiture1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Voiture2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Voiture3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Voiture4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\Voiture5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\asphalte.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\Frogger\eau.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\SupInfoLogo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\bg_hr.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\blacktocat.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\cbrunel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\icon_download.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\keyboard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\sprite_download.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\images\under_construction.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\javascripts\Frogger\Frog.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\javascripts\Frogger\Tronc.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\javascripts\Frogger\Voitures.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\javascripts\Frogger\game.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\javascripts\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\pages\frogger.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\params.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\stylesheets\pygment_trac.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\stylesheets\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\Old\stylesheets\stylesheet.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\application.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\browser-window-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\browser-window-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\browser-window-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\flower.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\noise.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\img\stripped-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\assets\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\controller.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\initialize.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\router.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\styles\application.styl" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\about\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\about\template.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\contact\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\contact\template.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\home\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\home\template.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\projects\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\app\views\projects\template.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\brunch-config.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\copy-fonts.sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\vendor\require.define.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\vendor\scripts\console-helper.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/client-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/client-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/preloader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/php/handleFormSubmit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/imagesloaded.pkgd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.cbpQTRotator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.easypiechart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.parallax-1.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/simple-line-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/smoothscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/wow.min.js" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\SupInfoLogo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\bg_hr.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\blacktocat.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\cbrunel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\icon_download.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\keyboard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\sprite_download.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\under_construction.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\javascripts\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\stylesheets\pygment_trac.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\stylesheets\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\stylesheets\stylesheet.css" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Bas.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Bas.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\BlueFrog1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog1.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\BlueFrog2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog2.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\BlueFrog3.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog3.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\BlueFrog4.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog4.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Camion.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Camion.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Croco1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Croco1.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Croco2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Croco2.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog1.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog2.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog3.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog3.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog4.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog4.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog5.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog5.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog6.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog6.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog7.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog7.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog8.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog8.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Haut.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Haut.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Middle.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Middle.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Piafoupas.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Piafoupas.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Serpent1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Serpent1.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Serpent2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Serpent2.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Serpent3.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Serpent3.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Serpent4.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Serpent4.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Tronc1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Tronc1.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Tronc2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Tronc2.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Tronc3.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Tronc3.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Voiture1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Voiture1.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Voiture2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Voiture2.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Voiture3.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Voiture3.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Voiture4.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Voiture4.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Voiture5.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Voiture5.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\asphalte.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/asphalte.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\eau.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/eau.png" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\javascripts\Frogger\Frog.js" afterPath="$PROJECT_DIR$/assets/js/Frogger/Frog.js" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\javascripts\Frogger\Tronc.js" afterPath="$PROJECT_DIR$/assets/js/Frogger/Tronc.js" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\javascripts\Frogger\Voitures.js" afterPath="$PROJECT_DIR$/assets/js/Frogger/Voitures.js" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\javascripts\Frogger\game.js" afterPath="$PROJECT_DIR$/assets/js/Frogger/game.js" />
+      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\pages\frogger.html" afterPath="$PROJECT_DIR$/projects/frogger.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PereKastor.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -118,11 +119,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13972603" vertical-offset="0" max-vertical-offset="365">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.48828828" vertical-offset="5101" max-vertical-offset="9231">
+              <caret line="316" column="16" selection-start-line="316" selection-start-column="16" selection-end-line="316" selection-end-column="16" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#3;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#4;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="29959" max-vertical-offset="57698">
+              <caret line="1775" column="14" selection-start-line="1775" selection-start-column="10" selection-end-line="1775" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6550" max-vertical-offset="16626">
+              <caret line="398" column="0" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.9285715" vertical-offset="1601" max-vertical-offset="2788">
+              <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -168,6 +214,9 @@
         <option value="$PROJECT_DIR$/app/views/about/index.js" />
         <option value="$PROJECT_DIR$/app/views/about/template.hbs" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/js/custom.js" />
       </list>
     </option>
   </component>
@@ -228,6 +277,56 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PereKastor.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PereKastor.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PereKastor.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PereKastor.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PereKastor.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PereKastor.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -242,6 +341,7 @@
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -252,6 +352,8 @@
       <recent name="C:\Users\Constant\Desktop\PereKastor.github.io\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Constant\Desktop\PereKastor.github.io\assets\js" />
+      <recent name="C:\Users\Constant\Desktop\PereKastor.github.io\assets\images" />
       <recent name="C:\Users\Constant\Desktop\PereKastor.github.io\images" />
     </key>
   </component>
@@ -383,10 +485,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3681672" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32475883" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -474,11 +576,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/Frogger/Piafoupas.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/params.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="379">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/frogger.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60382515" vertical-offset="0" max-vertical-offset="527">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/simple-line-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18932875" vertical-offset="3171" max-vertical-offset="9027">
+          <caret line="193" column="8" selection-start-line="193" selection-start-column="6" selection-end-line="193" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="29959" max-vertical-offset="57698">
+          <caret line="1775" column="14" selection-start-line="1775" selection-start-column="10" selection-end-line="1775" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6550" max-vertical-offset="16626">
+          <caret line="398" column="0" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9285715" vertical-offset="1601" max-vertical-offset="2788">
+          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13972603" vertical-offset="0" max-vertical-offset="365">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48828828" vertical-offset="5101" max-vertical-offset="9231">
+          <caret line="316" column="16" selection-start-line="316" selection-start-column="16" selection-end-line="316" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#4;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

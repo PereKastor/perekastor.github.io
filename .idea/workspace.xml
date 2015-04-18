@@ -1,99 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea157422-f8ca-427f-add8-96bb2a2b7e5f" name="Default" comment="new home">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/client-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/client-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/cover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/item-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/preloader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/php/handleFormSubmit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/imagesloaded.pkgd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.cbpQTRotator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.easypiechart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.parallax-1.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.sticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/modernizr.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/simple-line-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/smoothscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/wow.min.js" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\SupInfoLogo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\bg_hr.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\blacktocat.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\cbrunel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\icon_download.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\keyboard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\sprite_download.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\under_construction.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\javascripts\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\stylesheets\pygment_trac.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\stylesheets\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\stylesheets\stylesheet.css" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Bas.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Bas.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\BlueFrog1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog1.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\BlueFrog2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog2.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\BlueFrog3.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog3.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\BlueFrog4.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog4.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Camion.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Camion.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Croco1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Croco1.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Croco2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Croco2.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog1.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog2.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog3.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog3.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog4.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog4.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog5.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog5.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog6.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog6.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog7.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog7.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Frog8.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Frog8.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Haut.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Haut.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Middle.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Middle.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Piafoupas.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Piafoupas.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Serpent1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Serpent1.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Serpent2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Serpent2.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Serpent3.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Serpent3.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Serpent4.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Serpent4.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Tronc1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Tronc1.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Tronc2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Tronc2.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Tronc3.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Tronc3.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Voiture1.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Voiture1.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Voiture2.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Voiture2.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Voiture3.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Voiture3.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Voiture4.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Voiture4.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\Voiture5.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/Voiture5.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\asphalte.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/asphalte.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\images\Frogger\eau.png" afterPath="$PROJECT_DIR$/assets/images/Frogger/eau.png" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\javascripts\Frogger\Frog.js" afterPath="$PROJECT_DIR$/assets/js/Frogger/Frog.js" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\javascripts\Frogger\Tronc.js" afterPath="$PROJECT_DIR$/assets/js/Frogger/Tronc.js" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\javascripts\Frogger\Voitures.js" afterPath="$PROJECT_DIR$/assets/js/Frogger/Voitures.js" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\javascripts\Frogger\game.js" afterPath="$PROJECT_DIR$/assets/js/Frogger/game.js" />
-      <change type="MOVED" beforePath="C:\Users\Constant\Desktop\PereKastor.github.io\pages\frogger.html" afterPath="$PROJECT_DIR$/projects/frogger.html" />
+    <list default="true" id="ea157422-f8ca-427f-add8-96bb2a2b7e5f" name="Default" comment="New Design">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -132,8 +40,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48828828" vertical-offset="5101" max-vertical-offset="9231">
-              <caret line="316" column="16" selection-start-line="316" selection-start-column="16" selection-end-line="316" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.48828828" vertical-offset="3180" max-vertical-offset="9945">
+              <caret line="203" column="42" selection-start-line="203" selection-start-column="42" selection-end-line="203" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -157,8 +65,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="6550" max-vertical-offset="16626">
-              <caret line="398" column="0" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="6550" max-vertical-offset="17000">
+              <caret line="400" column="0" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -215,8 +123,8 @@
         <option value="$PROJECT_DIR$/app/views/about/template.hbs" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/js/custom.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -480,13 +388,20 @@
       <option name="project" value="LOCAL" />
       <updated>1420637281784</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="New Design">
+      <created>1429348784948</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1429348784948</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32475883" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -502,7 +417,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -541,7 +455,8 @@
     <MESSAGE value="new website generator" />
     <MESSAGE value="change style" />
     <MESSAGE value="new home" />
-    <option name="LAST_COMMIT_MESSAGE" value="new home" />
+    <MESSAGE value="New Design" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Design" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -615,8 +530,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6550" max-vertical-offset="16626">
-          <caret line="398" column="0" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="6550" max-vertical-offset="17000">
+          <caret line="400" column="0" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -639,8 +554,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48828828" vertical-offset="5101" max-vertical-offset="9231">
-          <caret line="316" column="16" selection-start-line="316" selection-start-column="16" selection-end-line="316" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.48828828" vertical-offset="3180" max-vertical-offset="9945">
+          <caret line="203" column="42" selection-start-line="203" selection-start-column="42" selection-end-line="203" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />

@@ -12,7 +12,7 @@ function Frog(){
 	var move = true;
 	var score = 0;
 	var max_l = 0;
-	image.src = "../images/Frogger/Frog5.png";
+	image.src = "./images/Frog5.png";
 	
 	//Déclaration de tous les getter et setter
 	Object.defineProperties(this, {
@@ -92,7 +92,7 @@ Frog.prototype.bouger = function(val){
 				this.posY--;
 				
 			if(this.posY == (y - this.sautA))
-				this.image.src = "../images/Frogger/Frog5.png";
+				this.image.src = "./images/Frog5.png";
 				
 			this.larg = 23;
 			this.ligne++;
@@ -101,7 +101,7 @@ Frog.prototype.bouger = function(val){
 				this.score += 10;
 			}	
 		}else
-			this.image.src = "../images/Frogger/Frog5.png";
+			this.image.src = "./images/Frog5.png";
 	}else if(val == 2){//Déplacement de la grenouille vers le bas
 		if((this.posY + this.sautA + 60) <= 450){
 			var y = this.posY;
@@ -109,12 +109,12 @@ Frog.prototype.bouger = function(val){
 				this.posY++;
 				
 			if(this.posY == (y + this.sautA))
-				this.image.src = "../images/Frogger/Frog7.png";
+				this.image.src = "./images/Frog7.png";
 				
 			this.larg = 23;	
 			this.ligne--;
 		}else
-			this.image.src = "../images/Frogger/Frog7.png";
+			this.image.src = "./images/Frog7.png";
 	}else if(val == 3){//Déplacement de la grenouille vers la droite
 		if((this.posX + this.sautC + 23) <= 400){
 			var x = this.posX;
@@ -122,11 +122,11 @@ Frog.prototype.bouger = function(val){
 				this.posX++;
 				
 			if(this.posX == (x + this.sautC))
-				this.image.src = "../images/Frogger/Frog1.png";
+				this.image.src = "./images/Frog1.png";
 				
 			this.larg = 17;			
 		}else
-			this.image.src = "../images/Frogger/Frog1.png";
+			this.image.src = "./images/Frog1.png";
 	}else if(val == 4){//Déplacement de la grenouille vers la gauche
 		if((this.posX - this.sautC) >= 0){
 			var x = this.posX;
@@ -134,11 +134,11 @@ Frog.prototype.bouger = function(val){
 				this.posX--;
 				
 			if(this.posX == (x - this.sautC))
-				this.image.src = "../images/Frogger/Frog3.png";
+				this.image.src = "./images/Frog3.png";
 				
 			this.larg = 19;
 		}else
-			this.image.src = "../images/Frogger/Frog3.png";
+			this.image.src = "./images/Frog3.png";
 	}
 };
 
@@ -164,7 +164,7 @@ Frog.prototype.win = function(){
 	this.posX = 400 / 2 - 15;
 	this.posY = 370;
 	this.ligne = 0;
-	this.image.src = "../images/Frogger/Frog5.png";
+	this.image.src = "./images/Frog5.png";
 	this.score += 200;
 };
 
@@ -175,7 +175,7 @@ Frog.prototype.restart = function(){
 	this.max_l = 0;
 	this.life--;
 	this.move = true;
-	this.image.src = "../images/Frogger/Frog5.png";
+	this.image.src = "./images/Frog5.png";
 	this.dead = false;
 };
 
@@ -186,7 +186,7 @@ Frog.prototype.restartGame = function(){
 	this.life = 3;
 	this.move = true;
 	this.score = 0;
-	this.image.src = "../images/Frogger/Frog5.png";
+	this.image.src = "./images/Frog5.png";
 	this.dead = false;
 };
 

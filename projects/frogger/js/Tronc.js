@@ -1,31 +1,46 @@
-function Voitures(ligne,x,v){
-	var posX = x, posY, image, l = ligne, vit = v, larg;
-  var pathImg = "../images/Frogger/";
+function Tronc(ligne,x){
+  var posX, posY, image, l, vit, larg;
+	var pathImg = "./images/";
 	if(ligne == 1){
-		posY = 162;
+		posX = x;
+		posY = 340;
 		image = new Image();
-		image.src = pathImg + "Voiture1.png";
-		larg = 24;
+		image.src = pathImg + "Tronc1.png";
+		l = ligne;
+		vit = 1;
+		larg = 177;
 	}else if(ligne == 2){
-		posY = 137;
+		posX = x;
+		posY = 311;
 		image = new Image();
-		image.src = pathImg + "Voiture2.png";
-		larg = 28;
+		image.src = pathImg + "Tronc3.png";
+		l = ligne;
+		vit = 1.3;
+		larg = 84;
 	}else if(ligne == 3){
-		posY = 105;
+		posX = x;
+		posY = 282;
 		image = new Image();
-		image.src = pathImg + "Voiture3.png";
-		larg = 25;
+		image.src = pathImg + "Tronc2.png";
+		l = ligne;
+		vit = 0.7;
+		larg = 116;
 	}else if(ligne == 4){
-		posY = 79;
+		posX = x;
+		posY = 253;
 		image = new Image();
-		image.src = pathImg + "Camion.png";
-		larg = 45;
+		image.src = pathImg + "Tronc1.png";
+		l = ligne;
+		vit = 0.9;
+		larg = 177;
 	}else if(ligne == 5){
-		posY = 50;
+		posX = x;
+		posY = 224;
 		image = new Image();
-		image.src = pathImg + "voiture4.png";
-		larg = 23;
+		image.src = pathImg + "Tronc2.png";
+		l = ligne;
+		vit = 1;
+		larg = 116;
 	}
 	
 	Object.defineProperties(this, {
@@ -58,40 +73,34 @@ function Voitures(ligne,x,v){
 			get: function() {
 				return larg;	},
 			set: function(newValue) {
-				larg = newValue;}}
-				
+				larg = newValue;}}				
 	});
 }
 
-Voitures.prototype.bouger = function(){
-	if(this.l == 1){//Voitures de la ligne 1
-		if(this.posX <= 400)
-			this.posX += this.vit;
-		else
-			this.posX = -40;
-	}else if(this.l == 2){//Voitures de la ligne 2
-		if(this.posX >= (-28))
+Tronc.prototype.bouger = function(){
+	if(this.l == 1){//Buches de la ligne 1
+		if(this.posX >= (-177))
 			this.posX -= this.vit;
 		else
-			this.posX = 430;
-	}else if(this.l == 3){//Voitures de la ligne 3
+			this.posX = 500;
+	}else if(this.l == 2){//Buches de la ligne 2
 		if(this.posX <= 400)
 			this.posX += this.vit;
 		else
-			this.posX = -40;
-	}else if(this.l == 4){//Voitures de la ligne 4
-		if(this.posX >= (-45))
+			this.posX = -150;
+	}else if(this.l == 3 || this.l == 5){//Buches de la ligne 3 ou 5
+		if(this.posX >= (-116))
 			this.posX -= this.vit;
 		else
-			this.posX = 460;
-	}else if(this.l == 5){//Voitures de la ligne 5
+			this.posX = 450;
+	}else if(this.l == 4){//Buches de la ligne 4
 		if(this.posX <= 400)
 			this.posX += this.vit;
 		else
-			this.posX = -40;
+			this.posX = -200;
 	}
 };
 
-Voitures.prototype.draw = function(context){
+Tronc.prototype.draw = function(context){
 	context.drawImage(this.image,this.posX,this.posY);
 };

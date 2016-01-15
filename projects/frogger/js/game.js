@@ -3,7 +3,7 @@ var WP = 400;//Largeur du plateau
 var time = 60;
 var count = 0;
 var win_frog = new Array(0,0,0,0,0);
-var pathImg = "../images/Frogger/";
+var pathImg = "./images/";
 
 //Création des troncs
 var tronc1_1 = new Tronc(1,500);

@@ -649,7 +649,7 @@ textarea.form-control {
 
 @-webkit-keyframes drop {
   0% {
-    top: 0px;
+    top: 0;
     opacity: 0;
   }
   30% {
@@ -664,7 +664,7 @@ textarea.form-control {
 
 @keyframes drop {
   0% {
-    top: 0px;
+    top: 0;
     opacity: 0;
   }
   30% {
@@ -904,7 +904,7 @@ figure.effect-bubba:hover p {
 
 .cbp-qtrotator {
   position: relative;
-  margin: 3em auto 0em auto;
+  margin: 3em auto 0 auto;
   max-width: 90%;
   width: 90%;
 }
@@ -947,7 +947,7 @@ figure.effect-bubba:hover p {
   position: absolute;
   background: #FF5252;
   height: 1px;
-  width: 0%;
+  width: 0;
   top: 0;
   z-index: 1000;
 }
@@ -992,3 +992,13 @@ figure.effect-bubba:hover p {
 
 }
 
+.overlay-portfolio {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: none;
+  z-index: 10000;
+}

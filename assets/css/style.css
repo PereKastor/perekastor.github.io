@@ -1002,3 +1002,14 @@ figure.effect-bubba:hover p {
   display: none;
   z-index: 10000;
 }
+
+.content-portfolio {
+  position: fixed;
+  background-color: white;
+  width: 80%;
+  height: 80%;
+  top: 10%;
+  left: 10%;
+  display: none;
+  z-index: 10000;
+}

@@ -129,6 +129,17 @@
     };
 
     /* ---------------------------------------------- /*
+     * Wallop initialisation
+     /* ---------------------------------------------- */
+
+    var wallopEl = document.querySelector('.Wallop');
+    var wallop = new Wallop(wallopEl);
+
+    //setInterval(function() {
+    //  wallop.next();
+    //}, 5000);
+
+    /* ---------------------------------------------- /*
      * Contact form ajax
      /* ---------------------------------------------- */
     var m = new mandrill.Mandrill('LBVmx2yzpOrZuYs29HZPUA');

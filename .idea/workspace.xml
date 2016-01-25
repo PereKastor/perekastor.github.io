@@ -2,45 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea157422-f8ca-427f-add8-96bb2a2b7e5f" name="Default" comment="Test de commit depuis pc boulot">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Bas.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Bas.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog1.png" afterPath="$PROJECT_DIR$/projects/frogger/images/BlueFrog1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog2.png" afterPath="$PROJECT_DIR$/projects/frogger/images/BlueFrog2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog3.png" afterPath="$PROJECT_DIR$/projects/frogger/images/BlueFrog3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/BlueFrog4.png" afterPath="$PROJECT_DIR$/projects/frogger/images/BlueFrog4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Camion.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Camion.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Croco1.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Croco1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Croco2.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Croco2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Frog1.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Frog1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Frog2.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Frog2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Frog3.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Frog3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Frog4.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Frog4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Frog5.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Frog5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Frog6.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Frog6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Frog7.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Frog7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Frog8.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Frog8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Haut.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Haut.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Middle.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Middle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Piafoupas.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Piafoupas.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Serpent1.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Serpent1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Serpent2.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Serpent2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Serpent3.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Serpent3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Serpent4.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Serpent4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Tronc1.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Tronc1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Tronc2.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Tronc2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Tronc3.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Tronc3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Voiture1.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Voiture1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Voiture2.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Voiture2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Voiture3.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Voiture3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Voiture4.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Voiture4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/Voiture5.png" afterPath="$PROJECT_DIR$/projects/frogger/images/Voiture5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/asphalte.png" afterPath="$PROJECT_DIR$/projects/frogger/images/asphalte.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/images/Frogger/eau.png" afterPath="$PROJECT_DIR$/projects/frogger/images/eau.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/Frogger/Frog.js" afterPath="$PROJECT_DIR$/projects/frogger/js/Frog.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/Frogger/Tronc.js" afterPath="$PROJECT_DIR$/projects/frogger/js/Tronc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/Frogger/Voitures.js" afterPath="$PROJECT_DIR$/projects/frogger/js/Voitures.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/Frogger/game.js" afterPath="$PROJECT_DIR$/projects/frogger/js/game.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/frogger.html" afterPath="$PROJECT_DIR$/projects/frogger/frogger.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/GeoBalance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/controller-xbox-gaming.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/frogger-300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/vinoga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/wallop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/wallop.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/custom.js" afterPath="$PROJECT_DIR$/assets/js/custom.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="PereKastor.github.io.iws" />
@@ -62,21 +33,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.538462">
+              <caret line="325" column="26" selection-start-line="325" selection-start-column="26" selection-end-line="325" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#3;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#4;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="frogger.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/frogger/frogger.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.692307">
+            <state vertical-scroll-proportion="0.0">
               <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Frog.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.71900827">
+              <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+              <folding>
+                <element signature="e#4674#5994#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Frog.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/frogger/js/Frog.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6487603">
-              <caret line="189" column="22" selection-start-line="189" selection-start-column="22" selection-end-line="189" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="189" column="20" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.038462">
+              <caret line="991" column="0" selection-start-line="991" selection-start-column="0" selection-end-line="991" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/projects/frogger/js/Tronc.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -106,13 +114,21 @@
         <entry file="file://$PROJECT_DIR$/projects/frogger/js/Voitures.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -152,16 +168,18 @@
         <option value="$PROJECT_DIR$/app/views/about/index.js" />
         <option value="$PROJECT_DIR$/app/views/about/template.hbs" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/assets/js/mandrill.min.js" />
-        <option value="$PROJECT_DIR$/assets/js/custom.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/projects/frogger.html" />
         <option value="$PROJECT_DIR$/projects/frogger/frogger.html" />
         <option value="$PROJECT_DIR$/projects/frogger/js/Voitures.js" />
         <option value="$PROJECT_DIR$/projects/frogger/js/Tronc.js" />
         <option value="$PROJECT_DIR$/projects/frogger/js/game.js" />
         <option value="$PROJECT_DIR$/projects/frogger/js/Frog.js" />
+        <option value="$PROJECT_DIR$/assets/css/wallop.css" />
+        <option value="$PROJECT_DIR$/assets/js/wallop.min.js" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/js/custom.js" />
       </list>
     </option>
   </component>
@@ -207,8 +225,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -331,6 +349,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="perekastor.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="perekastor.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="bootstrap" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -351,6 +387,9 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -616,11 +655,34 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projects/frogger/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/frogger/js/Tronc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/frogger/js/Voitures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -658,7 +720,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="166" column="29" selection-start-line="166" selection-start-column="29" selection-end-line="166" selection-end-column="29" />
           <folding>
-            <element signature="e#4364#5684#0" expanded="false" />
+            <element signature="e#4674#5994#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -667,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +773,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="166" column="29" selection-start-line="166" selection-start-column="29" selection-end-line="166" selection-end-column="29" />
           <folding>
-            <element signature="e#4364#5684#0" expanded="false" />
+            <element signature="e#4674#5994#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -722,7 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -730,7 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,7 +826,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="166" column="29" selection-start-line="166" selection-start-column="29" selection-end-line="166" selection-end-column="29" />
           <folding>
-            <element signature="e#4364#5684#0" expanded="false" />
+            <element signature="e#4674#5994#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -777,7 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,7 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -833,46 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="135" column="43" selection-start-line="135" selection-start-column="43" selection-end-line="135" selection-end-column="43" />
-          <folding>
-            <element signature="e#4364#5684#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="400" column="0" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="1775" column="14" selection-start-line="1775" selection-start-column="10" selection-end-line="1775" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.307692">
-          <caret line="226" column="12" selection-start-line="226" selection-start-column="12" selection-end-line="226" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#3;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#4;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -928,7 +944,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/frogger/frogger.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.692307">
+        <state vertical-scroll-proportion="0.0">
           <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
           <folding />
         </state>
@@ -937,7 +953,7 @@
     <entry file="file://$PROJECT_DIR$/projects/frogger/js/Voitures.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -945,7 +961,7 @@
     <entry file="file://$PROJECT_DIR$/projects/frogger/js/Tronc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -960,9 +976,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/frogger/js/Frog.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6487603">
-          <caret line="189" column="22" selection-start-line="189" selection-start-column="22" selection-end-line="189" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="189" column="20" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/wallop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9514286">
+          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/wallop.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="4408" selection-start-line="0" selection-start-column="4408" selection-end-line="0" selection-end-column="4408" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024285715">
+          <caret line="1775" column="14" selection-start-line="1775" selection-start-column="10" selection-end-line="1775" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.038462">
+          <caret line="991" column="0" selection-start-line="991" selection-start-column="0" selection-end-line="991" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.538462">
+          <caret line="325" column="26" selection-start-line="325" selection-start-column="26" selection-end-line="325" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#4;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71900827">
+          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding>
+            <element signature="e#4674#5994#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

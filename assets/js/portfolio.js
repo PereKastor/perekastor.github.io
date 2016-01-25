@@ -6,13 +6,13 @@
       geobalance: {
         "title": "GeoBalance",
         "description": "Jeu mobile où l'on doit placer des pièces en équilibre sur une plate-forme.",
-        "imgPath": "assets/images/item-1.jpg",
+        "imgPath": "assets/images/GeoBalance.png",
         "skills": ["C#", "Unity3D", "GameDesign", "LevelDesign"]
       },
       vinoga: {
         "title": "Vinoga",
         "description": "Jeu basé sur l'univers du vin où l'on apprend beaucoup de choses.",
-        "imgPath": "assets/images/item-1.jpg",
+        "imgPath": "assets/images/vinoga.png",
         "skills": ["HTML5", "CSS3", "Javascript", "BackboneJS", "NodeJS", "MongoDB"]
       },
       cubbyhole: {
@@ -36,7 +36,7 @@
       frogger: {
         "title": "Frogger",
         "description": "Un jeu très connu qui m'a permis d'en apprendre un peu plus sur le jeu vidéo.",
-        "imgPath": "assets/images/item-5.jpg",
+        "imgPath": "assets/images/frogger-300.png",
         "skills": ["C#", "Unity3D", "GameDesign", "LevelDesign"]
       },
       forbidden: {
@@ -48,7 +48,7 @@
     };
 
 
-    $(".grid").on("click", ".info-project", function () {
+    $(".projects-list").on("click", ".info-project", function () {
       var project = $(this).data("project");
       $(".overlay-portfolio").fadeToggle("fast");
       $(".content-portfolio").fadeToggle("slow");
@@ -61,7 +61,7 @@
 
     var getTemplate = function getTemplate(name, options) {
       var html = '<div class="col-xs-12 col-sm-4 col-md-4">';
-      html += '<div class="grid wow zoomIn">';
+      html += '<div class="grid wow zoomIn" style="visibility: hidden; animation-name: none;">';
       html += '<figure class="effect-bubba info-project" data-project="' + name + '">';
       html += '<img src="' + options.imgPath + '" alt="' + name + '"/>';
       html += '<figcaption>';

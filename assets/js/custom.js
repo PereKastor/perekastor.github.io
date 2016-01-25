@@ -192,6 +192,14 @@
       return false;
     });
 
+
+    /* ---------------------------------------------- /*
+     * Cheat MotherFucker
+     /* ---------------------------------------------- */
+
+    cheet("U U D D L R L R b a", function () {
+      alert("You are damn good :)");
+    })
   });
 
 })(jQuery);

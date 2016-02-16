@@ -994,6 +994,7 @@ figure.effect-bubba:hover p {
 
 .gallery img {
   height: 400px;
+  margin-right: 10px;
 }
 
 .flickity-page-dots {

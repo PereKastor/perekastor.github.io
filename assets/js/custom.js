@@ -128,16 +128,32 @@
       return pattern.test(emailAddress);
     };
 
-    /* ---------------------------------------------- /*
-     * Wallop initialisation
-     /* ---------------------------------------------- */
-
-    var wallopEl = document.querySelector('.Wallop');
-    var wallop = new Wallop(wallopEl);
 
     //setInterval(function() {
     //  wallop.next();
     //}, 5000);
+
+
+    /* ---------------------------------------------- /*
+     * Projects manager
+     /* ---------------------------------------------- */
+
+    var previousProject = "";
+    $(".grid").on("click", ".effect-bubba", function () {
+      var project = $(this).data("project");
+      $(".project-info").slideUp("fast");
+      if (project !== previousProject) {
+        var $project = $(".open-" + project);
+        $project.slideToggle("fast");
+        $project.children(".gallery").flickity('resize');
+        previousProject = project;
+      }
+      else {
+        previousProject = "";
+      }
+    });
+
+    $(".project-info").hide();
 
     /* ---------------------------------------------- /*
      * Contact form ajax

@@ -766,6 +766,7 @@ textarea.form-control {
   display: block;
   min-height: 100%;
   max-width: 100%;
+  min-width: 100%;
   opacity: 0.8;
 }
 
@@ -1007,4 +1008,14 @@ figure.effect-bubba:hover p {
   width: 40px;
   margin: 0;
   border-radius: 0;
+}
+
+.project-info {
+  margin-bottom: 35px;
+  background-color: #f9f9f9;
+  padding: 10px;
+}
+
+.projects-cat {
+  margin-bottom: 35px;
 }
